@@ -37,3 +37,10 @@ This is a recreation of [Hans Rosling's famous chart](https://www.ted.com/talks/
 Using VueJS, I implemented the display of the SVG circles, and the interactive year scrubber. Most of the [D3 code is from Mike Bostock](https://observablehq.com/@mbostock/the-wealth-health-of-nations).
 
 This demo shows you can use D3's awesome utilities to do all the hard math stuff (e.g. scaling), while leveraging the reactive nature of VueJS for chart updates in response to user inputs.
+
+
+## Previously...
+
+I taught Computer Science at a university-level, for a long time at the **University of the Philippines**, and more recently at the **University of Texas RGV**.
+
+Intro to CS courses are my favorite to teach. Towards that, I co-authored an [interactive textbook](https://github.com/CSLearning4U/TeacherCSP) that helps teachers learn how to teach AP CS, along with CS Ed researchers from **Georgia Tech**.
