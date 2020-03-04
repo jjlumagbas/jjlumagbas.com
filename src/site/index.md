@@ -15,7 +15,7 @@ Features:
 - A slider to show change over time
 - Assign a different variable to color
 - Clustering options
-- Clickable circles to show lablels (so you can track changes to that circle)
+- Clickable circles to show labels (so you can track changes to that circle)
 
 ### [Network diagram with dynamic addition/removal of nodes →](https://local-community.jjlumagbas.now.sh/)
 
