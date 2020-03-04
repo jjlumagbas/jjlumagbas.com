@@ -4,7 +4,7 @@ subtitle: I'm a <strong>Front End Developer</strong> specializing in <strong>Int
 layout: layouts/base.njk
 ---
 
-Right now I work with the **Scaling Science** project at **[MIT Media Lab](https://www.media.mit.edu/)**, building internal visualization tools to help researchers explore a large, graph-based data set.
+I work with the **Scaling Science** project at **[MIT Media Lab](https://www.media.mit.edu/)**, building internal visualization tools to help researchers explore a large, graph-based data set.
 
 A lot of the project is still pre-publication, unfortunately, so I can't share too many details about it. I do have permission though to share some demos of prototypes we're working on. I collaborated on the design of these visualizations, and built them using [D3.js](https://d3js.org/).
 
