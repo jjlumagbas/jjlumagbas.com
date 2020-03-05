@@ -44,3 +44,6 @@ This demo shows you can use D3's awesome utilities to do all the hard math stuff
 I taught Computer Science at a university-level, for a long time at the **University of the Philippines**, and more recently at the **University of Texas RGV**.
 
 Intro to CS courses are my favorite to teach. Towards that, I co-authored an [interactive textbook](https://github.com/CSLearning4U/TeacherCSP) that helps teachers learn how to teach AP CS, along with CS Ed researchers from **Georgia Tech**.
+
+
+<a href="/jjlumagbas-resume-frontend.pdf" download><strong>View my full resume</strong></a>
