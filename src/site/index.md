@@ -8,7 +8,14 @@ I work with the **Scaling Science** project at **[MIT Media Lab](https://www.med
 
 A lot of the project is still pre-publication, unfortunately, so I can't share too many details about it. I do have permission though to share some demos of prototypes we're working on. I collaborated on the design of these visualizations, and built them using [D3.js](https://d3js.org/).
 
-### [Bubble chart with clustering options →](https://viz-gnosfwkwfc.now.sh/)
+### [Network diagram with dynamic addition/removal of nodes →](https://local-community.jjlumagbas.now.sh/)
+
+Features: 
+
+- A slider to show change over time
+- Pan and zoom (scroll on desktop, pinch on mobile)
+
+### [Bubble chart with clustering options (desktop) →](https://viz-gnosfwkwfc.now.sh/)
 
 Features:
 
@@ -17,15 +24,8 @@ Features:
 - Clustering options
 - Clickable circles to show labels (so you can track changes to that circle)
 
-### [Network diagram with dynamic addition/removal of nodes →](https://local-community.jjlumagbas.now.sh/)
 
-Features: 
-
-- A slider to show change over time (again)
-- Pan and zoom (scroll on desktop, pinch on mobile)
-
-
-### [2D Range slider →](https://2d-rangeslider-qyuheaispc.now.sh/)
+### [2D Range Slider →](https://2d-rangeslider-qyuheaispc.now.sh/)
 
 I built a control input that would select weights of multiple variables simultaneously by dragging a circle around. Inspired by the control input at [Gen Studio](https://gen.studio/map/%3Fid%3D9405%26ids%3D%5B9405%2C9232%2C22848%2C8396%2C751402%2C79226%5D), and extended so you can change the number of variables dynamically.
 
